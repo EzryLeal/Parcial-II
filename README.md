@@ -3,7 +3,7 @@
 ## Introduccion al Proyecto Listas Enlazadas en Java
 La estructura del proyecto incluye 3 archivos:
 ## Node.java Este almacena las clases para los nodos definiendo la estrutura de la lista
-  '''in data:''' permite dar un valor al nodo
+  'in data:' permite dar un valor al nodo
   '''Node next:''' da paso al siguiente nodo
   '''this.next = null:''' finaliza la lista ya que no hay mas valores o nodos por presentar
 ## LinkedList.java Este contiene las clases que manejan las listas enlazadas
